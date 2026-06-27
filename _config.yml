@@ -1,0 +1,12 @@
+title: "Minimalist Lens"
+description: "A modern photography portfolio and blog."
+url: "https://yourdomain.com"
+
+# Collections for easy portfolio updating
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+markdown: kramdown
+highlighter: rouge

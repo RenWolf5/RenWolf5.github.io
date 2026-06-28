@@ -1,8 +1,8 @@
 - name: Gallery
   link: /
 - name: About
-  link: /about.md/
+  link: /about/
 - name: Blog
-  link: /blog.html/
+  link: /blog/
 - name: Links
-  link: /links.md/
+  link: /links/

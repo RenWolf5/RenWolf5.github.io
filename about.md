@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Links
+title: About
+permalink: /about/
 ---
 
 ### Connect with me
 
-- [Instagram](https://instagram.com/yourprofile)
-- [Twitter/X](https://x.com/yourprofile)
-- [Print Shop](https://yourshop.com)
-- [Contact Email](mailto:hello@yourdomain.com)
+About me text here....
